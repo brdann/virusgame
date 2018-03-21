@@ -11,6 +11,8 @@ enum class Cell : int {
 const int N = 8;
 Cell field[N][N];
 
+// modified
+
 void printfield() {
 
 };
@@ -20,3 +22,4 @@ int main() {
     return 1;
 }
 
+// changes
