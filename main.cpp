@@ -25,6 +25,21 @@ void printfield()
 
 int main()
 {
+    int cheihod = 0;
+    int kolichestvohodov = 3;
+
+    while (true)
+    {
+        if (kolichestvohodov == 0)
+            {
+            cheihod++;
+            kolichestvohodov =3;
+            }
+
+        if (/**/)
+            break;
+    }
+
     printfield ();
     return 1;
 }
